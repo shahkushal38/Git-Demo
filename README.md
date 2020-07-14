@@ -1,2 +1,3 @@
-#Git Demo for Webinar
+Git Demo for Webinar
+
 This is just a sample git repository for webinar.
